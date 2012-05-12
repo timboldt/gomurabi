@@ -1,0 +1,7 @@
+First attempt at a Go program.  Decided to re-implement "Hamurabi".
+
+The ultimate goal is to evolve it into something more complex, and then experiment with genetic algorithms
+to find an optimum strategy for playing the game.
+
+Tim
+May 12, 2012
