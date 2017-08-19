@@ -1,7 +1,7 @@
 package kingdomstate
 
 import (
-    . "launchpad.net/gocheck"
+    . "github.com/go-check/check"
     "testing"
 	"fmt"
     "math/rand"
